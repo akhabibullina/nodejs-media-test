@@ -1,11 +1,12 @@
 # nodejs-media-test
 
-Test application that delivers MP3 file and runs on nodejs. A server doing simple task: giving the media file on GET request.
+Test application that delivers MP3 file and runs on nodejs.
+A server doing simple task: giving the media file on GET request.
 
 Deps usage:
 
 * [express](https://github.com/visionmedia/express)
-* [debug]()
+* debug
 
 Installation:
 
