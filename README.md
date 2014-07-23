@@ -1,6 +1,6 @@
-# Test application that delivers MP3 file and runs on nodejs
+# nodejs-media-test
 
-A server doing simple task: giving the media file on GET request.
+Test application that delivers MP3 file and runs on nodejs. A server doing simple task: giving the media file on GET request.
 
 Deps usage:
 
